@@ -1,6 +1,6 @@
 # Etch a sketch
 
-![](images/etch-a-sketch-screenshot.png "")
+![](etch-a-sketch-screenshot.png "")
 
 :point_right: [live demo](https://cmfernandes.github.io/etch-a-sketch/) 
 
